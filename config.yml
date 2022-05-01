@@ -1,0 +1,2 @@
+credentials:
+    key: ${{ secrets.API_KEY }}
